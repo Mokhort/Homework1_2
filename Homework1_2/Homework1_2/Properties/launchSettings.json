@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Homework1_2": {
+      "commandName": "Project",
+      "commandLineArgs": "numbers.txt",
+      "workingDirectory": "C:\\Users\\gisel\\source\\repos\\Homework1_2\\Homework1_2"
+    }
+  }
+}
